@@ -7,28 +7,6 @@ In order to customize your profile, you would have to create a README in a repos
 
 Note that github READMEs are written in Markdown. This makes it easy to cleanly format and organize your README. A Markdown syntax guide can be found here: https://www.markdownguide.org/basic-syntax/
 
-You can also write HTML/CSS to gain even more controllability over how your README looks. The link above provides HTML equivalents to all Markdown syntax. If you wish to add CSS to customize your page even further, you can do so by adding style tags to your page. For instance:
-
-```
-<style>
-.red_text{
-    color:red;
-}
-</style>
-
-<p class="red_text">This is now red</p>
-```
-
-Renders to:
-
-<style>
-redText{
-    color:red;
-}
-</style>
-
-<redText>This is now red</redText>
-
 There is no need to create an incredibly detailed profile such as the ones found in the link above. However, there are some things it is important to include in one's profile. These things are:
 * A greeting. Github is not meant to be a professional site. While employers may view your profile, the main purpose of your profile README should be to introduce yourself to other developers. You can do this by showing a glimpse into who you are and what your interests are.
 * Your top skills. This can be done in a number of ways. I choose to use an auto-generated stat tracker, which shows my most used languages in a histogram. If you would like to use the same tool, the documentation can be found here: https://github.com/anuraghazra/github-readme-stats
