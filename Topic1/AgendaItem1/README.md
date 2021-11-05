@@ -39,3 +39,5 @@ Once you are in a spot where you want this repository to live, type *git clone* 
 Now, you will be prompted to provide your github login information. Here you would type your github username, then in the next field, go back and copy your personal access token and paste that. Upon completion of this step, the repository should be cloned onto your local machine.
 
 From this point onwards, you can communicate with the remote the same way you did for the remote repositories used in class. The same *git commit* *git push* *git pull* commands will work. However, now you will have the benefit of being able to go to github.com and viewing the files, branches, commit history, etc. of your repository using an intuitive UI instead of your command line. 
+
+For more info: https://docs.github.com/en/github/importing-your-projects-to-github/importing-source-code-to-github/adding-an-existing-project-to-github-using-the-command-line
