@@ -22,12 +22,12 @@ You can also write HTML/CSS to gain even more controllability over how your READ
 Renders to:
 
 <style>
-.red_text{
+redText{
     color:red;
 }
 </style>
 
-<p class="red_text">This is now red</p>
+<redText>This is now red</redText>
 
 There is no need to create an incredibly detailed profile such as the ones found in the link above. However, there are some things it is important to include in one's profile. These things are:
 * A greeting. Github is not meant to be a professional site. While employers may view your profile, the main purpose of your profile README should be to introduce yourself to other developers. You can do this by showing a glimpse into who you are and what your interests are.
