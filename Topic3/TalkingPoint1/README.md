@@ -20,4 +20,5 @@ Once a node confirms a transaction, it is permanently added to a block on the bl
 
 ### If blockchains are simply a record of transactions, what are people actually transacting?
 *Again, we will use bitcoin to answer this.*
+
 Miners receive bitcoins for mining blocks on the blockchain. This cycle essentially mints new currency as existing currency is transacted. Bitcoins are essentially complex computer files that can be linked to one's address.

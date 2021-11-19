@@ -2,6 +2,6 @@
 
 ## Talking points:
 * What is Blockchain
-* Advantages of Blockchain
+* Pros and Cons
 * Privacy vs. Transparency
 * Uses beyond crypto
