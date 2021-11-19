@@ -4,7 +4,7 @@ This repository hosts the information disucssed during CS400 extra topic session
 
 * Nov 5: github.com
 * Nov 12: Tips for Learning Computer Science
-* Nov 19: 
+* Nov 19: Blockchain
 * Nov 26: **We will not be meeting, Thanksgiving Holiday**
 * Dec 3:
 * Dec 10:
@@ -17,4 +17,3 @@ For the dates with no topics, some things I know well or think would be useful/i
 * App development
 * The pros and cons of each area within CS
 * Ethics in computer science (VERY important these days)
-* Blockchain
